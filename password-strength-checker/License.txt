@@ -1,0 +1,14 @@
+---
+
+### `LICENSE`
+
+Created by William Nutter
+Free to use under GPL 2.0
+User creation must be cited
+
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...

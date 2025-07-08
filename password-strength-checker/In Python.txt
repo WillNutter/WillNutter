@@ -1,0 +1,4 @@
+from password_strength import check_password_strength
+
+result = check_password_strength("MySecureP@ss1")
+print(result)
